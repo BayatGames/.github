@@ -67,7 +67,7 @@ Made with ❤️ by [Bayat][author]
 
 [author]: https://bayat.io
 
-[coc]: code-of-conduct.md
+[coc]: CODE_OF_CONDUCT.md
 
 [save-system]: https://github.com/BayatAssetStore/SaveSystem
 
@@ -85,4 +85,4 @@ Made with ❤️ by [Bayat][author]
 
 [forums]: https://forums.bayat.io
 
-[contributing]: contributing.md
+[contributing]: CONTRIBUTING.md
