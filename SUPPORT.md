@@ -51,7 +51,7 @@ Spending the extra time up front can help save everyone time in the long run.
 
 ## Contributions
 
-See [`contributing.md`][contributing] on how to contribute.
+See [`CONTRIBUTING.md`][contributing] on how to contribute.
 
 ## License
 
