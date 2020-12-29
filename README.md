@@ -8,12 +8,12 @@ templates][issue].
 ## Support
 
 We’re glad you’re using these projects and we’d love to help.
-Take a look at [`support.md`][support] to find out how to help us help you.
+Take a look at [`SUPPORT.md`][support] to find out how to help us help you.
 
 ## Contributing
 
 We’re excited that you’re interested in contributing!
-Take a moment to read [`contributing.md`][contribute].
+Take a moment to read [`CONTRIBUTING.md`][contribute].
 
 Ideas for new plugins and tools can be posted in [Forums][ideas].
 
@@ -39,9 +39,9 @@ Made with ❤️ by [Bayat][author]
 
 [coc]: code-of-conduct.md
 
-[contribute]: contributing.md
+[contribute]: CONTRIBUTING.md
 
-[support]: support.md
+[support]: SUPPORT.md
 
 [pr]: .github/pull-request-template.md
 
