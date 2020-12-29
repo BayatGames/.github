@@ -67,12 +67,12 @@ work.
 
 ## Support
 
-See [`support.md`][support] on how to get help.
+See [`SUPPORT.md`][support] on how to get help.
 
 ## Submitting an issue
 
 *   The issue tracker is for issues.
-    See [`support.md`][support] on how to get help.
+    See [`SUPPORT.md`][support] on how to get help.
 *   Search the issue tracker (including closed issues) before opening a new
     issue
 *   Ensure you’re using the latest version of projects
