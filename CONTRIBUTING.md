@@ -7,7 +7,7 @@
 Hi!  👋
 We’re excited that you’re interested in contributing!
 Take a moment to read the following guidelines.
-And thanks for contributing to **Bayat Unity Assets**!  👏👌✨
+And thanks for contributing to **Bayat Open Source**!  👏👌✨
 
 ## Contents
 
@@ -26,9 +26,8 @@ And thanks for contributing to **Bayat Unity Assets**!  👏👌✨
 
 ## Ecosystem
 
-The collective ([BayatAssetStore][]) consists of several organizations and separate
-projects: most of them are tiny, and many of them have a utility, a plugin, and relate to an ecosystem.
-Try and pick the right place to contribute to so we can help you faster.
+The collective ([BayatGames][]) consists of several separate
+projects for the gaming and game development industry.
 
 ## Contributions
 
@@ -103,7 +102,9 @@ See [`SUPPORT.md`][support] on how to get help.
 
 ## License
 
-[Unity Asset Store Terms and EULA][license] © [Bayat][author]
+Unity assets are licensed under [Unity Asset Store Terms and EULA][license]
+
+All rights reserved© [Bayat][author]
 
 ---
 
@@ -117,7 +118,7 @@ Made with ❤️ by [Bayat][author]
 
 [coc]: CODE_OF_CONDUCT.md
 
-[bayatassetstore]: https://github.com/BayatAssetStore
+[bayatgames]: https://github.com/BayatGames
 
 [collective]: https://opencollective.com/bayatdevelopers
 
