@@ -104,7 +104,7 @@ See [`SUPPORT.md`][support] on how to get help.
 
 Unity assets are licensed under [Unity Asset Store Terms and EULA][license]
 
-All rights reserved© [Bayat][author]
+All rights reserved © [Bayat][author]
 
 ---
 
