@@ -20,10 +20,7 @@ To help us help you, please read through the following guidelines.
 Please chat and ask questions on [Discord][discord]!
 Jump in there and lurk, talk to us, and help others, or use our [Forums][forums] for more.
 
-*   [**Save System**](https://github.com/BayatAssetStore/SaveSystem/discussions)
-    — Topics relating to [**Save System**][save-system] in general
-*   [**Audio System**](https://github.com/BayatAssetStore/AudioSystem/discussions)
-    — Topics relating to the [**Audio System**][audio-system] ecosystem
+You can also use each repository's dedicated discussions panel.
 
 ### Asking quality questions
 
@@ -55,7 +52,9 @@ See [`CONTRIBUTING.md`][contributing] on how to contribute.
 
 ## License
 
-[Unity Asset Store Terms and EULA][license] © [Bayat][author]
+Unity assets are licensed under [Unity Asset Store Terms and EULA][license]
+
+All rights reserved © [Bayat][author]
 
 ---
 
