@@ -1,6 +1,6 @@
 # `.github`
 
-Community health files for **Bayat Unity Assets**.
+Community health files for **Bayat Open Source**.
 This repo hosts the [code of conduct][coc], a guide on how to get [support][],
 how to [contribute][], a [pull request template][pr], and [issue
 templates][issue].
@@ -25,15 +25,13 @@ abide by its terms.
 
 ## License
 
-[Unity Asset Store Terms and EULA][license] © [Bayat][author]
+All rights reserved © [Bayat][author]
 
 ---
 
 Made with ❤️ by [Bayat][author]
 
 <!-- Definitions -->
-
-[license]: https://unity3d.com/legal/as_terms
 
 [author]: https://bayat.io
 
