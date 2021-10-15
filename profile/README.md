@@ -13,4 +13,4 @@ You can contribute to any project, just check the corresponding contribution gui
 
 ## Useful resources
 
-- [📕 Developer resources](https://developer.bayat.io)
+- [📕 Developer resources](https://developer.bayat.io) (not yet available)
