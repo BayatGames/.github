@@ -13,7 +13,6 @@ And thanks for contributing to **Bayat Open Source**!  👏👌✨
 
 *   [Ecosystem](#ecosystem)
 *   [Contributions](#contributions)
-    *   [Financial support](#financial-support)
     *   [Improve documentation](#improve-documentation)
     *   [Improve issues](#improve-issues)
     *   [Give feedback on issues](#give-feedback-on-issues)
@@ -32,15 +31,6 @@ projects for the gaming and game development industry.
 ## Contributions
 
 There’s several ways to contribute, not just by writing code.
-
-### Financial support
-
-It’s possible to support us financially by becoming a backer or sponsor through
-[Open Collective][collective].
-With this support, we can pay for project leadership, finance non-coding work,
-or to do fun things for the community like getting stickers for contributors.
-You’ll be helping Bayat’s maintainers and developers manage and improve existing projects,
-and additionally support our work to develop new and exciting projects.
 
 ### Improve documentation
 
@@ -119,7 +109,5 @@ Made with ❤️ by [Bayat][author]
 [coc]: CODE_OF_CONDUCT.md
 
 [bayatgames]: https://github.com/BayatGames
-
-[collective]: https://opencollective.com/bayatdevelopers
 
 [support]: SUPPORT.md
