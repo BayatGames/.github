@@ -18,9 +18,9 @@ To help us help you, please read through the following guidelines.
 ## Questions
 
 Please chat and ask questions on [Discord][discord]!
-Jump in there and lurk, talk to us, and help others, or use our [Forums][forums] for more.
+Jump in there and lurk, talk to us, and help others.
 
-You can also use each repository's dedicated discussions panel.
+You can also use each repository's dedicated discussions panel or email us directly at support@bayat.io.
 
 ### Asking quality questions
 
