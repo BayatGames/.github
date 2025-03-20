@@ -24,7 +24,7 @@ assignees: ''
 
 ## Environment
 <!-- Please complete the following information -->
-- Product/Repository: [e.g., SaveGameFree, MeshEditor]
+- Product/Repository: [e.g., SaveGameFree]
 - Version: [e.g., 1.2.0]
 - Unity Version: [e.g., 2022.3.1f1]
 - Platform: [e.g., Windows, macOS, Android, iOS]

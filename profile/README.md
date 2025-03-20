@@ -31,13 +31,6 @@ Bayat is a game development studio focused on creating high-quality tools, asset
       </a>
       <p>2D Platformer game</p>
     </td>
-    <td align="center">
-      <a href="https://github.com/BayatGames/MeshEditor">
-        <img src="https://github.com/BayatGames/MeshEditor/raw/master/Images/Icon.png" width="100px" alt="Mesh Editor"/><br>
-        <b>Mesh Editor</b>
-      </a>
-      <p>Edit meshes at runtime</p>
-    </td>
   </tr>
 </table>
 
