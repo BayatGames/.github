@@ -57,7 +57,7 @@ For more details, see our [CONTRIBUTING.md](https://github.com/BayatGames/.githu
 - **Website**: [bayat.io](https://bayat.io)
 - **Support**: [support.bayat.io](https://support.bayat.io)
 - **Twitter**: [@BayatGames](https://twitter.com/BayatGames)
-- **Discord**: [Join our community](https://discord.gg/bayatgames)
+- **Discord**: [Join our community](https://discord.gg/HWMqD7T)
 
 ## 📊 GitHub Stats
 

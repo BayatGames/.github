@@ -4,7 +4,7 @@ This file recognizes the people who have made significant contributions to this 
 
 ## Core Team
 
-- [Your Name](https://github.com/yourusername) - Project Maintainer
+- [Hasan Bayat](https://github.com/hasanbayatme) - Project Maintainer
 
 ## Contributors
 
