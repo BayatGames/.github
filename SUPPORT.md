@@ -82,6 +82,4 @@ Made with ❤️ by [Bayat][author]
 
 [discord]: https://discord.gg/HWMqD7T
 
-[forums]: https://forums.bayat.io
-
 [contributing]: CONTRIBUTING.md
