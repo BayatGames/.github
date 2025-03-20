@@ -1,11 +1,25 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Bayat
+  - name: 📚 Documentation
+    url: https://docs.bayat.io
+    about: Check our documentation first - your question might already be answered!
+  
+  - name: 🌐 Bayat Website
     url: https://bayat.io
-    about: Learn more about Bayat and find new ways to reach out
-  - name: Forums
-    url: https://forums.bayat.io
-    about: Discuss about Bayat services and products
-  - name: Discord
+    about: Visit our website to learn more about our products and services
+  
+  - name: 🏠 Support Portal
+    url: https://support.bayat.io
+    about: Get official support from our team
+  
+  - name: 🎮 Discord Community
     url: https://discord.gg/X2Ag9gC2zT
-    about: Join our Discord community!
+    about: Join our Discord server for real-time help and discussions
+    
+  - name: 🛒 Unity Asset Store
+    url: https://assetstore.unity.com/publishers/26641
+    about: Purchase our premium Unity assets
+    
+  - name: ❓ FAQ
+    url: https://bayat.io/faq
+    about: Check our frequently asked questions

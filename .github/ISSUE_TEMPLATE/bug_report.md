@@ -1,38 +1,52 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+name: 🐛 Bug Report
+about: Report something that's not working as expected
+title: '[BUG] '
+labels: 'bug, needs triage'
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Bug Description
+<!-- A clear and concise description of what the bug is -->
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## Reproduction Steps
+<!-- Steps to reproduce the behavior -->
+1.
+2.
+3.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## Expected Behavior
+<!-- What you expected to happen -->
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## Actual Behavior
+<!-- What actually happened -->
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## Environment
+<!-- Please complete the following information -->
+- Product/Repository: [e.g., SaveGameFree, MeshEditor]
+- Version: [e.g., 1.2.0]
+- Unity Version: [e.g., 2022.3.1f1]
+- Platform: [e.g., Windows, macOS, Android, iOS]
+- Device: [if mobile or console specific]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+## Screenshots/Videos
+<!-- If applicable, add screenshots or videos to help explain your problem -->
 
-**Additional context**
-Add any other context about the problem here.
+## Console Logs/Error Messages
+<!-- Include any relevant error messages or logs -->
+```
+Paste error messages here
+```
+
+## Possible Solution
+<!-- Optional: If you have suggestions on how to fix the bug -->
+
+## Additional Context
+<!-- Add any other context about the problem here -->
+
+## Impact
+<!-- How is this bug affecting your work? (optional) -->
+- [ ] Blocking my work completely
+- [ ] Major impact but I can work around it
+- [ ] Minor inconvenience

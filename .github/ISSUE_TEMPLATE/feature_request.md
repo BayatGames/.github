@@ -1,20 +1,44 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+name: 🚀 Feature Request
+about: Suggest a new feature or enhancement
+title: '[FEATURE] '
+labels: 'enhancement, needs triage'
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## Feature Description
+<!-- A clear and concise description of the feature you're requesting -->
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## Problem Statement
+<!-- Describe the problem or limitation that this feature would address -->
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## Proposed Solution
+<!-- Describe how you envision this feature working -->
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## Alternative Solutions
+<!-- Describe any alternative solutions or features you've considered -->
+
+## Use Cases
+<!-- Describe specific use cases for this feature -->
+1.
+2.
+3.
+
+## Mockups/Examples
+<!-- If applicable, add mockups, screenshots, or examples to help explain your feature request -->
+
+## Implementation Ideas
+<!-- Optional: If you have ideas about how to implement this feature -->
+
+## Product/Repository
+<!-- Which product or repository would this feature apply to? -->
+- [ ] All repositories
+- [ ] Specific repository:
+
+## Impact/Importance
+<!-- How important is this feature to you? -->
+- [ ] Critical (I cannot move forward without it)
+- [ ] High (Would greatly improve my workflow)
+- [ ] Medium (Would be a nice addition)
+- [ ] Low (Just an idea to consider)
