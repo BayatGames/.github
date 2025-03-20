@@ -6,14 +6,23 @@
 
 Hello! 👋
 
-Thank you for using **Bayat Games** services and products. We're committed to providing excellent support to our community. To help us assist you efficiently, please review the following guidelines.
+Thank you for using **Bayat Games** services and products. We're committed to providing excellent support for both our games and game development tools. To help us assist you efficiently, please review the following guidelines.
 
 ## Contents
 
+*   [Support Categories](#support-categories)
 *   [Questions](#questions)
     *   [Asking quality questions](#asking-quality-questions)
 *   [Contributions](#contributions)
 *   [License](#license)
+
+## Support Categories
+
+We provide different support channels depending on what you need help with:
+
+* **Games**: For support with our games, please visit our [game support portal](https://support.bayat.io/games) or use the in-game support options
+* **Development Tools & Assets**: For help with our Unity plugins, frameworks, and assets, use the GitHub Discussions for the specific repository or our [developer portal](https://support.bayat.io/dev)
+* **Open Source Projects**: For assistance with our open source projects, please use GitHub Issues on the respective repository
 
 ## Questions
 
@@ -35,6 +44,15 @@ Effective questions lead to effective answers. When formulating your question:
 *   Check if a similar question has already been asked on GitHub
 *   When possible, provide sample code, a [.NET Fiddle][dotnetfiddle], [Repl.it][replit], or a video demonstration
 *   The more detailed and well-structured your question, the better we can assist you
+
+## Game-Specific Support
+
+For our games, we recommend:
+
+* Checking our [FAQ page](https://bayat.io/games/faq) for common questions
+* Using in-game support options where available
+* Joining game-specific channels in our Discord community
+* Reporting bugs through our dedicated [game issue form](https://bayat.io/games/report-issue)
 
 ## Contributions
 

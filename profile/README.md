@@ -5,13 +5,19 @@
 
 We're passionate about **creating and playing games**, and we love **open source**!
 
-Bayat Games is a game development studio focused on creating high-quality tools, assets, and frameworks for game developers. Our mission is to empower creators with accessible, powerful, and well-documented resources.
+Bayat Games is a multi-faceted game development studio dedicated to both creating engaging games and developing high-quality tools, assets, and frameworks for the game development community. Our mission is to craft exceptional gaming experiences while empowering fellow creators with accessible, powerful, and well-documented resources.
 
 ## 🚀 What We Do
 
-- 🎮 **Game Development Tools**: Unity plugins, frameworks, and solutions for common game dev challenges
+- 🎮 **Game Development**: Creating original games and interactive experiences for multiple platforms
+- 🛠️ **Game Development Tools**: Unity plugins, frameworks, and solutions for common game dev challenges
 - 📦 **Asset Creation**: High-quality assets for game developers to accelerate their projects
-- 💻 **Open Source Contributions**: We maintain several open source projects for the game dev community
+- 🌐 **Open Source Contributions**: We maintain several open source projects for the game dev community
+- 📱 **Cross-Platform Solutions**: Building technologies that work across mobile, desktop, and console platforms
+
+## 🎯 Our Games & Projects
+
+We create games across various genres and platforms, focusing on innovative gameplay and immersive experiences. Our game development expertise directly informs the tools and resources we create to help other developers.
 
 ## 🤝 How to Contribute
 
@@ -33,7 +39,7 @@ For more details, see our [CONTRIBUTING.md](https://github.com/BayatGames/.githu
 
 ## 📊 Organization Repositories
 
-Check out our pinned repositories below to see our featured projects and tools. We're constantly working to expand our open source offerings for the game development community.
+Check out our pinned repositories below to see our featured projects and tools. We're constantly working to expand our game portfolio and open source offerings for the game development community.
 
 ---
 

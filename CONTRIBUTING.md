@@ -29,7 +29,15 @@ Thank you for your interest in contributing to our projects. We appreciate your 
 
 ## Ecosystem
 
-The [BayatGames][bayatgames] organization consists of several distinct projects focused on the gaming and game development industry.
+The [BayatGames][bayatgames] organization encompasses a diverse ecosystem focused on both game development and game development tools:
+
+* **Games**: Original titles developed for various platforms including PC, mobile, and consoles
+* **Game Development Tools**: Plugins, frameworks, and utilities for popular game engines like Unity and Unreal
+* **Asset Libraries**: Collections of game assets, including graphics, audio, and game systems
+* **Developer SDKs**: Software development kits for integrating Bayat technologies into various environments
+* **Open Source Projects**: Community-focused projects that enhance the game development ecosystem
+
+Our projects are designed to work together while maintaining independence, allowing developers to select the components that best fit their needs.
 
 ## Contributions
 

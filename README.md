@@ -4,6 +4,15 @@
 
 This repository hosts the default community health files for the Bayat Games organization. These files are automatically applied to any repository within the organization that does not contain its own specific versions.
 
+## 📋 About Bayat
+
+Bayat Games specializes in both game development and creating powerful tools and resources for the game development community. Our portfolio includes:
+
+- **Original Games**: Creating engaging gaming experiences across multiple platforms
+- **Game Development Tools**: Building utilities, frameworks, and plugins that accelerate game development
+- **Asset Libraries**: Providing high-quality assets and resources for game creators
+- **Development Frameworks**: Offering robust solutions for common game development challenges
+
 ## 📋 Contents
 
 - **Organization Profile**: The public profile displayed on our organization's GitHub page
