@@ -45,7 +45,7 @@ jobs:
           buildName: ${{ inputs.build_name }}
 
       - name: Upload Build Artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: ${{ inputs.build_name }}-${{ inputs.target_platform }}
           path: build/${{ inputs.target_platform }}
