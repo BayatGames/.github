@@ -13,27 +13,6 @@ Bayat Games is a game development studio focused on creating high-quality tools,
 - 📦 **Asset Creation**: High-quality assets for game developers to accelerate their projects
 - 💻 **Open Source Contributions**: We maintain several open source projects for the game dev community
 
-## 🌱 Our Open Source Projects
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/BayatGames/SaveGameFree">
-        <img src="https://github.com/BayatGames/SaveGameFree/raw/master/Images/Icon.png" width="100px" alt="Save Game Free"/><br>
-        <b>Save Game Free</b>
-      </a>
-      <p>Save & load game data easily</p>
-    </td>
-    <td align="center">
-      <a href="https://github.com/BayatGames/RedRunner">
-        <img src="https://github.com/BayatGames/RedRunner/raw/master/Assets/RedRunner/Sprites/Misc/icon.png" width="100px" alt="Red Runner"/><br>
-        <b>Red Runner</b>
-      </a>
-      <p>2D Platformer game</p>
-    </td>
-  </tr>
-</table>
-
 ## 🤝 How to Contribute
 
 We welcome contributions to our open source projects! Here's how you can get involved:
