@@ -1,0 +1,30 @@
+title: "[Question] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Question and Answer
+        Use this template to ask a question about our project. Be specific to help the community provide the best answer.
+  
+  - type: textarea
+    id: question
+    attributes:
+      label: Your Question
+      description: What would you like to know?
+      placeholder: I'd like to understand how to...
+    validations:
+      required: true
+      
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional Context
+      description: Add any relevant context that might help others understand your question better.
+      placeholder: I'm trying to achieve... My environment is...
+    validations:
+      required: false
+      
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for your question! The community will try to answer it as soon as possible. 

@@ -1,0 +1,21 @@
+title: "[General] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Welcome to the General Discussion
+        This is an open space for any topic related to our project that doesn't fit in other categories.
+  
+  - type: textarea
+    id: topic
+    attributes:
+      label: What would you like to discuss?
+      description: Share your thoughts, ideas, or questions with the community.
+      placeholder: I wanted to start a conversation about...
+    validations:
+      required: true
+      
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for contributing to our community discussions! 

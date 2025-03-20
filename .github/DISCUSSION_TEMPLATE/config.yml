@@ -1,0 +1,31 @@
+# Discussion categories configuration
+# See: https://docs.github.com/en/discussions/managing-discussions-for-your-community/managing-categories-for-discussions
+
+# List of categories to enable for discussions
+categories:
+  - name: Announcements
+    description: Important updates and announcements from the team
+    emoji: 📢
+    
+  - name: Ideas
+    description: Share ideas for new features or improvements
+    emoji: 💡
+    
+  - name: Q&A
+    description: Ask questions and get answers from the community
+    emoji: ❓
+    
+  - name: Show and Tell
+    description: Share what you've built with our project
+    emoji: 🎮
+    
+  - name: Help
+    description: Request assistance with issues you're experiencing
+    emoji: 🆘
+    
+  - name: General
+    description: General discussion topics that don't fit elsewhere
+    emoji: 💬
+
+# Default category for new discussions (if applicable)
+default: General 
