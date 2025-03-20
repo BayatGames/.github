@@ -1,48 +1,42 @@
 # `.github`
 
-Community health files for **Bayat Open Source**.
-This repo hosts the [code of conduct][coc], a guide on how to get [support][],
-how to [contribute][], a [pull request template][pr], and [issue
-templates][issue].
+> Community health files and templates for all Bayat Games repositories
 
-## Support
+This repository hosts the default community health files for the Bayat Games organization. These files will be used for any repository within the organization that doesn't have its own specific versions of these files.
 
-We’re glad you’re using these projects and we’d love to help.
-Take a look at [`SUPPORT.md`][support] to find out how to help us help you.
+## 📋 What's Included
 
-## Contributing
+- **Organization Profile**: The public profile shown on our organization's GitHub page
+- **Community Health Files**:
+  - [Code of Conduct](CODE_OF_CONDUCT.md): Standards for participating in our community
+  - [Contributing Guidelines](CONTRIBUTING.md): How to contribute to our projects
+  - [Security Policy](SECURITY.md): How to report security vulnerabilities
+  - [Support Resources](SUPPORT.md): How to get help with our projects
+  - [Funding Information](FUNDING.yml): Supporting our open source work
+  
+- **Templates**:
+  - [Issue Templates](.github/ISSUE_TEMPLATE): Templates for bug reports and feature requests
+  - [Pull Request Template](.github/pull-request-template.md): Standard format for submitting code changes
 
-We’re excited that you’re interested in contributing!
-Take a moment to read [`CONTRIBUTING.md`][contribute].
+## 🔍 How It Works
 
-Ideas for new plugins and tools can be posted in [Forums][ideas].
+Files in this repository serve as default community health files for all repositories in the Bayat Games organization. GitHub will use these files for any repository that doesn't have its own version of the file.
 
-## Code of conduct
+The organization profile is displayed on our [GitHub organization page](https://github.com/BayatGames).
 
-This project has a [code of conduct][coc].
-By interacting with this repository, organization, or community you agree to
-abide by its terms.
+## 🛠 Maintenance
 
-## License
+This repository is maintained by the Bayat Games team. If you have suggestions for improving our templates or community health files, please open an issue or pull request in this repository.
 
-All rights reserved © [Bayat][author]
+## 📚 More Information
+
+- [Creating default community health files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
+- [Customizing your organization's profile](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)
+
+## 📄 License
+
+All rights reserved © [Bayat](https://bayat.io)
 
 ---
 
-Made with ❤️ by [Bayat][author]
-
-<!-- Definitions -->
-
-[author]: https://bayat.io
-
-[coc]: code-of-conduct.md
-
-[contribute]: CONTRIBUTING.md
-
-[support]: SUPPORT.md
-
-[pr]: .github/pull-request-template.md
-
-[issue]: .github/ISSUE_TEMPLATE
-
-[ideas]: https://forums.bayat.io/forums/forum/unity-assets/ideas/
+Made with ❤️ by [Bayat](https://bayat.io)
