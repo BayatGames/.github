@@ -38,7 +38,7 @@ jobs:
             Library-
 
       - name: Run Unity Tests
-        uses: game-ci/unity-test-runner@v3
+        uses: game-ci/unity-test-runner@v4
         with:
           unityVersion: ${{ inputs.unity_version }}
           testMode: ${{ inputs.test_mode }}
