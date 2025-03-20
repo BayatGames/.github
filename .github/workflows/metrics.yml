@@ -6,11 +6,11 @@ on:
   # Allow manual trigger
   workflow_dispatch:
   # Run on push to main branch (limit to relevant files)
-  push:
-    branches: [main]
-    paths:
-      - '.github/metrics.yml'
-      - '.github/workflows/metrics.yml'
+#   push:
+#     branches: [main]
+#     paths:
+#       - '.github/metrics.yml'
+#       - '.github/workflows/metrics.yml'
 
 jobs:
   github-metrics:
