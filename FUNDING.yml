@@ -1,4 +1,4 @@
-# These are supported funding model platforms
+# Funding configuration for Bayat Games organization
 
 # github: username  # Replace with GitHub Sponsors-enabled username
 # patreon: bayatgames
@@ -10,4 +10,6 @@
 # issuehunt: # Replace with a single IssueHunt username
 # otechie: # Replace with a single Otechie username
 # lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
+
+# Custom funding links
 custom: ['https://bayat.io/donate', 'https://assetstore.unity.com/publishers/26641']

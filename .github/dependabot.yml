@@ -1,5 +1,8 @@
 # Dependabot configuration file
 # See docs: https://docs.github.com/en/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
+# This configuration follows the Bayat Development Conventions for dependency management:
+# https://github.com/BayatGames/conventions/blob/main/docs/dependencies/management.md
+# https://github.com/BayatGames/conventions/blob/main/docs/dependencies/upgrade-strategies.md
 
 version: 2
 updates:
@@ -14,6 +17,9 @@ updates:
       - "github_actions"
     assignees:
       - "BayatGames/devops"
+    commit-message:
+      prefix: "chore"
+      include: "scope"
 
   # Maintain dependencies for npm
   - package-ecosystem: "npm"
@@ -26,6 +32,16 @@ updates:
       - "npm"
     assignees:
       - "BayatGames/developers"
+    commit-message:
+      prefix: "chore"
+      include: "scope"
+    groups:
+      dev-dependencies:
+        patterns:
+          - "*"
+        update-types:
+          - "minor"
+          - "patch"
 
   # Maintain dependencies for NuGet (.NET)
   - package-ecosystem: "nuget"
@@ -38,6 +54,16 @@ updates:
       - "nuget"
     assignees:
       - "BayatGames/developers"
+    commit-message:
+      prefix: "chore"
+      include: "scope"
+    groups:
+      nuget-dependencies:
+        patterns:
+          - "*"
+        update-types:
+          - "minor"
+          - "patch"
 
   # Maintain dependencies for Unity packages
   - package-ecosystem: "npm"
@@ -49,4 +75,14 @@ updates:
       - "dependencies"
       - "unity"
     assignees:
-      - "BayatGames/developers" 
+      - "BayatGames/developers"
+    commit-message:
+      prefix: "chore"
+      include: "scope"
+    groups:
+      unity-packages:
+        patterns:
+          - "*"
+        update-types:
+          - "minor"
+          - "patch" 

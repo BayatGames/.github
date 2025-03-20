@@ -1,7 +1,7 @@
 # GitHub Metrics Workflow Configuration
 
 # General configuration
-name: Community Metrics Dashboard
+name: Bayat Games Organization Metrics
 template: repository
 base: header, activity, community, repositories
 

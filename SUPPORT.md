@@ -4,9 +4,9 @@
 > By interacting with this repository, organization, or community you agree to
 > abide by its terms.
 
-Hi!  👋
-We're excited that you're using **Bayat** services and products and we'd love to help.
-To help us help you, please read through the following guidelines.
+Hello! 👋
+
+Thank you for using **Bayat Games** services and products. We're committed to providing excellent support to our community. To help us assist you efficiently, please review the following guidelines.
 
 ## Contents
 
@@ -17,44 +17,34 @@ To help us help you, please read through the following guidelines.
 
 ## Questions
 
-Please chat and ask questions on [Discord][discord]!
-Jump in there and lurk, talk to us, and help others.
+We encourage you to join our [Discord community][discord] for questions and discussions!
+Our Discord server is an active space where you can engage with our team and other community members.
 
-You can also use each repository's dedicated discussions panel or email us directly at support@bayat.io.
+You can also use each repository's dedicated Discussions panel or contact us directly at support@bayat.io.
 
 ### Asking quality questions
 
-Help us help you!
+Effective questions lead to effective answers. When formulating your question:
 
-Spending time framing a question and adding support links or resources makes it
-much easier for us to help.
-It's easy to fall into the trap of asking something too specific when you're
-close to a problem.
-Then, those trying to help you out have to spend a lot of time asking additional
-questions to understand what you are hoping to achieve.
-
-Spending the extra time up front can help save everyone time in the long run.
-
-*   Try to define what you need help with:
-    *   Is there something in particular you want to do?
-    *   What problem are you encountering and what steps have you taken to try
-        and fix it?
-    *   Is there a concept you're not understanding?
-*   Learn about the [rubber duck debugging method][rubberduck]
-*   Avoid falling for the [XY problem][xy]
-*   Search on GitHub to see if a similar question has been asked
-*   If possible, provide sample code, a [.NET Fiddle][dotnetfiddle] or [Repl.it][replit], or a video
-*   The more time you put into asking your question, the better we can help you
+*   Be specific about what you need help with:
+    *   Describe what you're trying to accomplish
+    *   Explain the problem you're encountering and what steps you've taken to resolve it
+    *   Identify any concepts that are unclear to you
+*   Consider using the [rubber duck debugging method][rubberduck] to clarify your thinking
+*   Be aware of the [XY problem][xy] (asking about your attempted solution rather than your actual problem)
+*   Check if a similar question has already been asked on GitHub
+*   When possible, provide sample code, a [.NET Fiddle][dotnetfiddle], [Repl.it][replit], or a video demonstration
+*   The more detailed and well-structured your question, the better we can assist you
 
 ## Contributions
 
-See [`CONTRIBUTING.md`][contributing] on how to contribute.
+For information on how to contribute to our projects, please refer to [`CONTRIBUTING.md`][contributing].
 
 ## License
 
 Unity assets are licensed under [Unity Asset Store Terms and EULA][license]
 
-All rights reserved © [Bayat][author]
+All rights reserved © [Bayat][author] 2024
 
 ---
 

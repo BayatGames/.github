@@ -1,48 +1,52 @@
 # Contributors
 
-This file recognizes the people who have made significant contributions to this project. We value every contribution, big or small.
+This document recognizes the individuals who have made valuable contributions to this project. We appreciate all contributions, regardless of their size or nature.
 
 ## Core Team
 
-- [Hasan Bayat](https://github.com/hasanbayatme) - Project Maintainer
+- [Hasan Bayat](https://github.com/hasanbayatme) - Project Lead & Maintainer
 
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<!-- This section is populated automatically by the all-contributors bot -->
+<!-- This section is automatically populated by the all-contributors bot -->
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## Contribution Types
 
-Contributions come in many forms. Here's how we recognize different types of contributions:
+We recognize various forms of contribution, including but not limited to:
 
-- 💻 Code: New features, bug fixes, improvements
-- 📖 Documentation: Writing docs, tutorials, or examples
-- 🎨 Design: UI/UX design, logos, graphics
-- 🔍 Review: Reviewing PRs and providing feedback
-- 💡 Ideas: Feature suggestions and innovative ideas
-- 🐛 Bug reports: Reporting issues
-- 🧪 Tests: Adding or improving tests
-- 🚧 Infrastructure: CI/CD, tooling, deployment
-- 🌍 Translation: Translating content
-- 📣 Talks: Presentations about the project
+- 💻 **Code**: Features, bug fixes, and performance improvements
+- 📖 **Documentation**: Writing, editing, and organizing documentation
+- 🎨 **Design**: User interface, graphics, and visual elements
+- 🔍 **Code Review**: Reviewing pull requests and providing feedback
+- 💡 **Ideas**: Feature suggestions and conceptual improvements
+- 🐛 **Bug Reports**: Identifying and documenting issues
+- 🧪 **Testing**: Creating and improving test suites
+- 🚧 **Infrastructure**: CI/CD pipelines and development tooling
+- 🌍 **Translation**: Translating documentation or user interfaces
+- 📣 **Advocacy**: Presentations and community engagement
 
 ## How to Contribute
 
-Please refer to our [CONTRIBUTING.md](CONTRIBUTING.md) file for details on how to contribute to this project.
+For comprehensive information on how to contribute to this project, please refer to our [CONTRIBUTING.md](CONTRIBUTING.md) document.
 
-## Recognition
+## Recognition Process
 
-We use the [All Contributors](https://allcontributors.org/) specification for recognizing contributions. To add yourself or someone else as a contributor, comment on an issue or PR with:
+We utilize the [All Contributors](https://allcontributors.org/) specification to recognize contributions systematically. To add yourself or acknowledge another contributor, please comment on an issue or pull request with:
 
 ```
 @all-contributors please add @username for contribution1, contribution2, etc.
 ```
 
-## Thank You
+## Acknowledgements
 
-Thank you to everyone who has contributed to this project!
+We extend our sincere gratitude to everyone who has contributed to making this project better.
+
+---
+
+Made with ❤️ by [Bayat](https://bayat.io)

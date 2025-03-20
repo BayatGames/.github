@@ -3,37 +3,47 @@
 All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
+and follows the [Bayat Development Conventions](https://github.com/BayatGames/conventions/blob/main/docs/releases/management.md) for release management.
 
 ## [Unreleased]
 
 ### Added
 
-- Updated Discord community links across all documentation
-- Enhanced professionalism of markdown files
-- Added current copyright year to README
+- Applied organization naming conventions from Bayat Games standards repository
+- Updated all documentation with consistent organizational language
+- Ensured current copyright year (2025) in all relevant documents
+- Enhanced cross-repository referencing with standardized naming conventions
+- Integrated references to the Bayat Development Conventions throughout documentation
 
 ### Changed
 
-- Standardized formatting across all documentation files
-- Updated CONTRIBUTORS.md with specific team member information
+- Standardized "Bayat Games" naming across all files
+- Updated copyright notices to reflect 2025
+- Improved brand consistency across all documentation files
+- Aligned file naming with Bayat Games conventions
+- Updated templates to reference the Bayat Development Conventions
+- Enhanced security policy with links to convention security standards
 
 ### Deprecated
 
-- Features that will be removed in upcoming releases
+- No features have been deprecated in this release
 
 ### Removed
 
-- Features that have been removed in this release
+- No features have been removed in this release
 
 ### Fixed
 
-- Fixed inconsistent Discord invitation links
-- Resolved broken repository links in CHANGELOG.md
+- Corrected inconsistent organization naming
+- Ensured all copyright notices use the correct organization name
+- Fixed footer design consistency across documentation files
+- Updated timestamps to reflect current year (2025)
 
 ### Security
 
-- Security improvements and vulnerability fixes
+- Enhanced security policy with reference to Bayat security standards
+- Added links to secure coding guidelines and vulnerability management procedures
 
 ## [1.0.0] - 2025-03-20
 

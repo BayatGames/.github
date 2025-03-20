@@ -4,68 +4,60 @@
 > By interacting with this repository, organization, or community you agree to
 > abide by its terms.
 
-Hi!  👋
-We're excited that you're interested in contributing!
-Take a moment to read the following guidelines.
-And thanks for contributing to **Bayat Open Source**!  👏👌✨
+Hello! 👋
+
+Thank you for your interest in contributing to our projects. We appreciate your time and effort in helping improve **Bayat Games Open Source**. Please take a moment to review the following guidelines before getting started.
 
 ## Contents
 
-*   [Ecosystem](#ecosystem)
-*   [Contributions](#contributions)
-    *   [Improve documentation](#improve-documentation)
-    *   [Improve issues](#improve-issues)
-    *   [Give feedback on issues](#give-feedback-on-issues)
-    *   [Write code](#write-code)
-*   [Development Workflow](#development-workflow)
-    *   [Branching Strategy](#branching-strategy)
-    *   [Commit Guidelines](#commit-guidelines)
-    *   [Pull Request Process](#pull-request-process)
-*   [Coding Standards](#coding-standards)
-*   [Support](#support)
-*   [Submitting an issue](#submitting-an-issue)
-*   [Submitting a pull request](#submitting-a-pull-request)
-*   [Resources](#resources)
-*   [License](#license)
+* [Ecosystem](#ecosystem)
+* [Contributions](#contributions)
+  * [Improve documentation](#improve-documentation)
+  * [Improve issues](#improve-issues)
+  * [Give feedback on issues](#give-feedback-on-issues)
+  * [Write code](#write-code)
+* [Development Workflow](#development-workflow)
+  * [Branching Strategy](#branching-strategy)
+  * [Commit Guidelines](#commit-guidelines)
+  * [Pull Request Process](#pull-request-process)
+* [Coding Standards](#coding-standards)
+* [Support](#support)
+* [Submitting an issue](#submitting-an-issue)
+* [Submitting a pull request](#submitting-a-pull-request)
+* [Resources](#resources)
+* [License](#license)
 
 ## Ecosystem
 
-The collective ([BayatGames][]) consists of several separate
-projects for the gaming and game development industry.
+The [BayatGames][bayatgames] organization consists of several distinct projects focused on the gaming and game development industry.
 
 ## Contributions
 
-There's several ways to contribute, not just by writing code.
+There are multiple ways to contribute beyond just writing code.
 
 ### Improve documentation
 
-As a user of this project you're perfect for helping us improve our docs.
-Typo corrections, error fixes, better explanations, new examples, etcetera.
-Anything!
+As a user of this project, you are ideally positioned to help us improve our documentation. This could include correcting typos, fixing errors, providing better explanations, adding new examples, or clarifying complex information.
 
 ### Improve issues
 
-Some issues lack information, aren't reproducible, or are just incorrect.
-Help make them easier to resolve.
+Some issues lack sufficient information, are not easily reproducible, or contain incorrect details. Your help in improving these issues makes them easier to resolve.
 
 ### Give feedback on issues
 
-We're always looking for more opinions on discussions in the issue tracker.
+We value diverse perspectives and opinions in discussions on our issue tracker.
 
 ### Write code
 
-Code contributions are very welcome.
-It's often good to first create an issue to report a bug or suggest a new
-feature before creating a pull request to prevent you from doing unnecessary
-work.
+Code contributions are highly valued. Before creating a pull request, it's often beneficial to first create an issue that reports a bug or suggests a new feature. This helps prevent unnecessary work and ensures alignment with project goals.
 
 ## Development Workflow
 
-Our development process is designed to be straightforward and transparent. Below is an outline of how we work.
+Our development process follows the [Bayat Development Conventions](https://github.com/BayatGames/conventions). Below is an outline of key workflow elements.
 
 ### Branching Strategy
 
-We follow a feature branch workflow:
+We follow the [Git Flow](https://github.com/BayatGames/conventions/blob/main/docs/git/flow.md) branching strategy:
 
 1. Create a new branch from `main` for each feature, fix, or improvement
 2. Name your branch with a descriptive prefix:
@@ -80,9 +72,9 @@ Example: `feature/add-new-component` or `fix/resolve-memory-leak`
 
 ### Commit Guidelines
 
-We follow the [Conventional Commits](https://www.conventionalcommits.org/) specification:
+We follow the [Conventional Commits](https://www.conventionalcommits.org/) specification as outlined in our [Commit Conventions](https://github.com/BayatGames/conventions/blob/main/docs/git/commits.md):
 
-```
+```plaintext
 <type>(<scope>): <description>
 
 [optional body]
@@ -93,7 +85,8 @@ We follow the [Conventional Commits](https://www.conventionalcommits.org/) speci
 Types include: feat, fix, docs, style, refactor, test, chore, etc.
 
 Examples:
-```
+
+```plaintext
 feat(ui): add button component
 fix(api): resolve authentication issue
 docs(readme): update installation instructions
@@ -102,61 +95,62 @@ docs(readme): update installation instructions
 ### Pull Request Process
 
 1. Ensure your branch is up to date with the latest changes from `main`
-2. Update documentation if necessary
+2. Update documentation as necessary
 3. Add tests for new features
 4. Run all tests locally before submitting
-5. Fill out the PR template completely
+5. Complete the PR template thoroughly
 6. Request reviews from maintainers
 7. Address review feedback promptly
 
 ## Coding Standards
 
-- Follow the established code style and patterns in the repository
-- Write meaningful comments for complex logic
-- Include appropriate error handling
-- Write tests for new functionality
-- Document public APIs
-- Keep accessibility in mind when developing UI components
+All contributions must adhere to our comprehensive [Bayat Development Conventions](https://github.com/BayatGames/conventions), which include:
+
+* Language-specific standards and patterns
+* Documentation requirements
+* Testing expectations
+* Accessibility considerations
+* Security best practices
+
+For specific guidance, refer to the relevant sections in our [conventions repository](https://github.com/BayatGames/conventions).
 
 ## Support
 
-See [`SUPPORT.md`][support] on how to get help.
+See [`SUPPORT.md`][support] for guidance on how to get help.
 
 ## Submitting an issue
 
-*   The issue tracker is for issues.
-    See [`SUPPORT.md`][support] on how to get help.
-*   Search the issue tracker (including closed issues) before opening a new
+* The issue tracker is for issues.
+    See [`SUPPORT.md`][support] for how to get help.
+* Search the issue tracker (including closed issues) before opening a new
     issue
-*   Ensure you're using the latest version of projects
-*   Use a clear and descriptive title
-*   Include as much information as possible: steps to reproduce the issue,
-    error message, version, operating system, etcetera
-*   The more time you put into an issue, the more we will
-*   The best issue report is a failing test or demo proving it
+* Ensure you're using the latest version of projects
+* Use a clear and descriptive title
+* Include as much information as possible: steps to reproduce the issue,
+    error message, version, operating system, etc.
+* The more detailed your issue report, the more effectively we can address it
+* The best issue report includes a failing test or demo that demonstrates the problem
 
 ## Submitting a pull request
 
-*   Non-trivial changes are often best discussed in an issue first, to prevent
-    you from doing unnecessary work
-*   For ambitious tasks, you should try to get your work in front of the
-    community for feedback as soon as possible
-*   New features should be accompanied with tests and documentation
-*   Don't include unrelated changes
-*   Test before submitting code
-*   Write a convincing description of why we should land your pull request:
-    it's your job to convince us
+* For significant changes, it's best to discuss your approach in an issue first to prevent unnecessary work
+* For ambitious tasks, share your work with the community early to gather feedback
+* New features should include tests and documentation
+* Limit your pull request to a single focused change
+* Test your changes thoroughly before submission
+* Provide a clear and compelling description explaining why your pull request should be accepted
 
 ## Resources
 
-*   [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
-*   [Making your first contribution](https://medium.com/@vadimdemedes/making-your-first-contribution-de6576ddb190)
-*   [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
-*   [GitHub Help](https://help.github.com)
-*   [Conventional Commits](https://www.conventionalcommits.org/)
-*   [All Contributors Specification](https://allcontributors.org/)
-*   [Keep a Changelog](https://keepachangelog.com/)
-*   [Semantic Versioning](https://semver.org/)
+* [Bayat Development Conventions](https://github.com/BayatGames/conventions)
+* [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+* [Making your first contribution](https://medium.com/@vadimdemedes/making-your-first-contribution-de6576ddb190)
+* [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
+* [GitHub Help](https://help.github.com)
+* [Conventional Commits](https://www.conventionalcommits.org/)
+* [All Contributors Specification](https://allcontributors.org/)
+* [Keep a Changelog](https://keepachangelog.com/)
+* [Semantic Versioning](https://semver.org/)
 
 ## License
 

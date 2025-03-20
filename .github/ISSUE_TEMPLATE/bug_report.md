@@ -39,6 +39,11 @@ assignees: ''
 Paste error messages here
 ```
 
+## Regression Information
+<!-- If this used to work in a previous version, please provide information about when it broke -->
+- Last working version: [e.g., 1.1.0]
+- First broken version: [e.g., 1.2.0]
+
 ## Possible Solution
 <!-- Optional: If you have suggestions on how to fix the bug -->
 
@@ -50,3 +55,6 @@ Paste error messages here
 - [ ] Blocking my work completely
 - [ ] Major impact but I can work around it
 - [ ] Minor inconvenience
+
+## Related Documentation
+<!-- If applicable, link to any related documentation from our conventions repository -->

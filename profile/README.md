@@ -1,11 +1,11 @@
 | [🌐 Website](https://bayat.io) | [🏠 Support](https://support.bayat.io) | [📚 Documentation](https://docs.bayat.io) | [📞 Contact](https://bayat.io/contact) | [💰 Unity Asset Store](https://assetstore.unity.com/publishers/26641) | [🎮 itch.io](https://bayat.itch.io) |
 |-------------------------------|-------------------------------------------|---------------------------------------|---------------------------------------|----------------------------------------------------------------------|-----------------------------------|
 
-# Welcome to Bayat 👋
+# Welcome to Bayat Games 👋
 
 We're passionate about **creating and playing games**, and we love **open source**!
 
-Bayat is a game development studio focused on creating high-quality tools, assets, and frameworks for game developers. Our mission is to empower creators with accessible, powerful, and well-documented resources.
+Bayat Games is a game development studio focused on creating high-quality tools, assets, and frameworks for game developers. Our mission is to empower creators with accessible, powerful, and well-documented resources.
 
 ## 🚀 What We Do
 
@@ -52,9 +52,9 @@ For more details, see our [CONTRIBUTING.md](https://github.com/BayatGames/.githu
 - **Twitter**: [@BayatGames](https://twitter.com/BayatGames)
 - **Discord**: [Join our community](https://discord.gg/HWMqD7T)
 
-## 📊 GitHub Stats
+## 📊 Organization Repositories
 
-![Bayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=BayatGames&show_icons=true&theme=radical)
+Check out our pinned repositories below to see our featured projects and tools. We're constantly working to expand our open source offerings for the game development community.
 
 ---
 

@@ -3,7 +3,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## Welcome to the General Discussion
+        ## Bayat Games - General Discussion
         This is an open space for any topic related to our project that doesn't fit in other categories.
   
   - type: textarea

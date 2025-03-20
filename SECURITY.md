@@ -1,65 +1,62 @@
-# Security policy
+# Security Policy
 
-> **Note**: this policy is new and untested.
-> We’ll update and polish it as we’re receiving security issues.
+## Commitment to Security
 
-## Brand promise
+Maintaining the security and integrity of our software, services, and user data is a top priority at [**Bayat Games**][bayat]. We welcome and appreciate the contributions of external security researchers in helping us identify and address potential vulnerabilities.
 
-Keeping users safe and secure is a top priority for us at
-[**Bayat**][bayat].
-We welcome the contribution of external security researchers.
+This security policy aligns with our [Secure Coding Guidelines](https://github.com/BayatGames/conventions/blob/main/docs/security/coding.md) and [Vulnerability Management Standards](https://github.com/BayatGames/conventions/blob/main/docs/security/vulnerabilities.md) as defined in the [Bayat Development Conventions](https://github.com/BayatGames/conventions).
 
 ## Scope
 
-If you believe you’ve found a security issue in any software, service, or
-website governed by Bayat, we encourage you to notify us.
+We encourage you to report security issues in any software, service, or website governed by Bayat Games. 
 
-Projects governed by Bayat sometimes do unsafe things by design (such as a
-plugin that executes arbitrary code or an option that is dangerous).
-This unsafe behavior should be explicitly documented and, if it is, is not
-considered a security issue.
+Please note that some projects may include features that perform inherently unsafe operations by design (such as plugins that execute arbitrary code or options with known security implications). When this behavior is explicitly documented, it is not considered a security vulnerability.
 
-There are no hard and fast rules to determine if a bug is worth reporting as a
-security issue or a “regular” issue.
-When in doubt, please do send us a report.
+While there are no rigid criteria for determining whether an issue qualifies as a security vulnerability or a standard bug, we prefer that you err on the side of caution. When in doubt, please submit a security report.
 
-## How to submit a report
+## Reporting Process
 
-Security issues can be reported by sending an email to security@bayat.io.
-The team will acknowledge your email within 48 hours.
-You will receive a more detailed response within 96 hours.
+Security issues should be reported by email to security@bayat.io.
 
-We will create a maintainer security advisory on GitHub to discuss internally,
-and when needed, invite you to the advisory.
+Our security team will acknowledge receipt of your report within 48 hours. You will receive a more detailed response within 96 hours, outlining our assessment of the issue and any next steps.
 
-## Safe harbor
+For coordinated vulnerability disclosure, we will create a GitHub Security Advisory to discuss the issue internally and, when appropriate, invite you to participate in the advisory process.
 
-**Bayat** supports safe harbor for security researchers who:
+This process follows our [DevSecOps Practices](https://github.com/BayatGames/conventions/blob/main/docs/security/devsecops.md) and [Incident Response Guidelines](https://github.com/BayatGames/conventions/blob/main/docs/devops/incident-response.md).
 
-*   Make a good faith effort to avoid privacy violations, destruction of data,
-    and interruption or degradation of our services
-*   Only interact with accounts you own or with explicit permission of the
-    account holder.
-    If you do encounter Personally Identifiable Information (PII) contact us
-    immediately, do not proceed with access, and immediately purge any local
-    information
-*   Provide us with a reasonable amount of time to resolve vulnerabilities prior
-    to any disclosure to the public or a third-party
-*   We will consider activities conducted consistent with this policy to
-    constitute “authorised” conduct and will not pursue civil action or initiate
-    a complaint to law enforcement.
-    We will help to the extent we can if legal action is initiated by a third
-    party against you
+## Safe Harbor Provisions
 
-Please submit a report to us before engaging in conduct that may be inconsistent
-with or unaddressed by this policy.
+**Bayat Games** provides safe harbor protection for security researchers who:
 
-## Preferences
+* Make good faith efforts to avoid privacy violations, destruction of data, and disruption or degradation of our services
+* Only interact with accounts you own or have explicit permission to access. If you inadvertently encounter Personally Identifiable Information (PII), immediately stop your activity, contact us, and delete any locally stored information
+* Provide us with reasonable time to investigate and address vulnerabilities before any public disclosure
+* Comply with all applicable laws and regulations
 
-*   Please provide detailed reports with reproducible steps and a clearly
-    defined impact
-*   Submit one vulnerability per report
-*   Social engineering (such as phishing, vishing, smishing) is prohibited
+We consider activities conducted in accordance with this policy to be "authorized" and will not pursue legal action or file complaints with law enforcement for such activities. We will also provide assistance if legal action is initiated by a third party against individuals complying with this policy.
+
+Before engaging in any security research activities that might fall outside the scope of this policy, please contact us first.
+
+## Preferences for Responsible Disclosure
+
+* Provide detailed reports with reproducible steps and clearly defined impact assessment
+* Submit one vulnerability per report for clarity and focused resolution
+* Do not engage in social engineering attacks (phishing, vishing, smishing, etc.)
+* Follow our [Data Protection Guidelines](https://github.com/BayatGames/conventions/blob/main/docs/security/data-protection.md) when handling sensitive information
+
+## Security Standards
+
+All Bayat projects adhere to comprehensive security standards as defined in our [Bayat Development Conventions](https://github.com/BayatGames/conventions), including:
+
+* [Secure Coding Practices](https://github.com/BayatGames/conventions/blob/main/docs/security/coding.md)
+* [Authentication Standards](https://github.com/BayatGames/conventions/blob/main/docs/security/authentication.md)
+* [Data Protection Guidelines](https://github.com/BayatGames/conventions/blob/main/docs/security/data-protection.md)
+* [Supply Chain Security Measures](https://github.com/BayatGames/conventions/blob/main/docs/security/supply-chain.md)
+* [SAST/DAST Implementation](https://github.com/BayatGames/conventions/blob/main/docs/security/sast-dast.md)
+
+## Contact
+
+For security inquiries or to report vulnerabilities, please contact: security@bayat.io
 
 [bayat]: https://bayat.io
 

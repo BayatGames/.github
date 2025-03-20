@@ -1,4 +1,4 @@
-name: Community Metrics Dashboard
+name: Organization Metrics Dashboard
 
 on:
   # Schedule updates (every day at midnight)
@@ -18,11 +18,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Generate metrics
+      - name: Generate organization metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          # Your GitHub username or organization
+          # Organization name
           user: ${{ github.repository_owner }}
           # Repository to use (current repository by default)
           repo: ${{ github.repository }}
@@ -37,6 +37,6 @@ jobs:
           # Filename of the output file
           filename: github-metrics.svg
           # Commit message for the output
-          committer_message: "chore: update community metrics dashboard [skip ci]"
+          committer_message: "chore: update organization metrics dashboard [skip ci]"
           # Use plugins as configured in metrics.yml
           use_prebuilt_image: yes 

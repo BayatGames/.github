@@ -31,6 +31,14 @@ assignees: ''
 ## Implementation Ideas
 <!-- Optional: If you have ideas about how to implement this feature -->
 
+## Alignment with Conventions
+<!-- If applicable, reference how this feature would align with our development conventions -->
+- [ ] Follows [Naming Conventions](https://github.com/BayatGames/conventions/blob/main/docs/general/naming.md)
+- [ ] Supports [Accessibility Standards](https://github.com/BayatGames/conventions/blob/main/docs/cross-functional/accessibility.md)
+- [ ] Considers [Internationalization](https://github.com/BayatGames/conventions/blob/main/docs/cross-functional/internationalization.md)
+- [ ] Addresses [Performance Criteria](https://github.com/BayatGames/conventions/blob/main/docs/cross-functional/performance.md)
+- [ ] Other:
+
 ## Product/Repository
 <!-- Which product or repository would this feature apply to? -->
 - [ ] All repositories
@@ -42,3 +50,6 @@ assignees: ''
 - [ ] High (Would greatly improve my workflow)
 - [ ] Medium (Would be a nice addition)
 - [ ] Low (Just an idea to consider)
+
+## Related Documentation
+<!-- If applicable, link to any related documentation from our conventions repository -->
