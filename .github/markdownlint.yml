@@ -1,0 +1,33 @@
+# Default state for all rules
+default: true
+
+# MD013/line-length - Line length
+MD013:
+  # Number of characters
+  line_length: 120
+  # Allow longer lines in code blocks
+  code_blocks: true
+  # Allow longer lines in tables
+  tables: true
+
+# MD033/no-inline-html - Inline HTML
+MD033:
+  # Allow certain HTML elements
+  allowed_elements:
+    - br
+    - details
+    - summary
+    - img
+
+# MD041/first-line-heading/first-line-h1 - First line in a file should be a top-level heading
+MD041: true
+
+# MD026/no-trailing-punctuation - Trailing punctuation in heading
+MD026:
+  # Only disallow certain punctuation at the end of headers
+  punctuation: ".,;:!。，；：！"
+
+# MD029/ol-prefix - Ordered list item prefix
+MD029:
+  # Style: 'one': All ordered list items use '1.'
+  style: "one" 

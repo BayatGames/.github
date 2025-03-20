@@ -1,0 +1,54 @@
+name: Unity Tests
+
+on:
+  workflow_call:
+    inputs:
+      unity_version:
+        description: "Unity version to use for testing"
+        required: true
+        type: string
+        default: "2022.3.1f1"
+      test_mode:
+        description: "Test mode (playmode or editmode)"
+        required: false
+        type: string
+        default: "all"
+      unity_license:
+        description: "Unity license type (professional or personal)"
+        required: false
+        type: string
+        default: "personal"
+
+jobs:
+  test:
+    name: Test in ${{ inputs.unity_version }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          lfs: true
+
+      - name: Cache Library
+        uses: actions/cache@v3
+        with:
+          path: Library
+          key: Library-${{ inputs.unity_version }}
+          restore-keys: |
+            Library-
+
+      - name: Run Unity Tests
+        uses: game-ci/unity-test-runner@v3
+        with:
+          unityVersion: ${{ inputs.unity_version }}
+          testMode: ${{ inputs.test_mode }}
+          artifactsPath: TestResults
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
+          checkName: ${{ inputs.test_mode }} Test Results
+
+      - name: Upload Test Results
+        uses: actions/upload-artifact@v3
+        if: always()
+        with:
+          name: Test Results
+          path: TestResults

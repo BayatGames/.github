@@ -1,0 +1,23 @@
+name: Issue Triage
+
+on:
+  issues:
+    types: [opened, reopened]
+
+jobs:
+  initial-triage:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Initial triage
+        uses: github/issue-labeler@v3.1
+        with:
+          repo-token: "${{ secrets.GITHUB_TOKEN }}"
+          configuration-path: .github/issue-triage.yml
+          enable-versioned-regex: 0
+          
+      - name: Auto-assign issues
+        uses: pozil/auto-assign-issue@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          assignees: ${{ github.repository_owner }}
+          numOfAssignee: 1 

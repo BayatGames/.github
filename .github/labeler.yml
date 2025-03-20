@@ -1,0 +1,31 @@
+# Add 'documentation' label to any changes in docs directory or *.md files
+documentation:
+  - 'docs/**/*'
+  - '**/*.md'
+
+# Add 'ci' label to any changes in .github workflows directory
+ci:
+  - '.github/workflows/**/*'
+
+# Add 'dependencies' label to any changes in package files
+dependencies:
+  - '**/package.json'
+  - '**/package-lock.json'
+  - '**/yarn.lock'
+  - '**/requirements.txt'
+  - '**/Pipfile'
+  - '**/Pipfile.lock'
+
+# Add 'core' label to any changes in src directory (adjust according to your project structure)
+core:
+  - 'src/**/*'
+
+# Add 'tests' label to any changes in test directories
+tests:
+  - 'tests/**/*'
+  - '**/*.test.js'
+  - '**/*.spec.js'
+  
+# Add 'security' label to changes in security files
+security:
+  - 'SECURITY.md' 

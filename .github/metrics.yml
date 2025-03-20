@@ -1,0 +1,77 @@
+# GitHub Metrics Workflow Configuration
+
+# General configuration
+name: Community Metrics Dashboard
+template: repository
+base: header, activity, community, repositories
+
+# Display options
+config:
+  display_header: yes
+  display_footer: no
+  display_title: yes
+  repositories_forks: no
+  repositories_affiliations: owner
+  timezone: UTC
+
+# Header
+header:
+  type: organization
+  layout: simple
+  display: true
+
+# Base plugins
+base_plugins:
+  - name: Lines
+    enabled: true
+    options:
+      repositories_limit: 10
+  
+  - name: Traffic
+    enabled: true
+    options:
+      views_in_past_days: 14
+      visitors_in_past_days: 14
+  
+  - name: People
+    enabled: true
+    options:
+      types: contributors, stargazers, watchers, sponsors
+      limit: 24
+      size: 28
+      sponsors_size: 28
+
+# Community plugins
+community_plugins:
+  - name: Followup
+    enabled: true
+    options:
+      display_sections: repositories
+  
+  - name: Issues
+    enabled: true
+    options:
+      display_states: all
+      display_sections: repositories
+  
+  - name: Pull Requests
+    enabled: true
+    options:
+      display_states: all
+      display_sections: repositories
+  
+  - name: Discussions
+    enabled: true
+    options:
+      display_sections: repositories
+  
+  - name: Contributors
+    enabled: true
+    options:
+      display_sections: repositories
+      sections:
+        - title: Top Contributors
+          threshold: 3%
+        - title: Recent Contributors
+          threshold: 0%
+          filter: '1 month' 

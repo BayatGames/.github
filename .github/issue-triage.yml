@@ -1,0 +1,31 @@
+bug:
+  - "\\bbug\\b"
+  - "\\bcrash\\b"
+  - "\\berror\\b"
+  - "\\bfail(ure|ed)?\\b"
+  - "\\bfix\\b"
+  - "\\bissue\\b"
+  - "\\bproblem\\b"
+
+enhancement:
+  - "\\badd\\b"
+  - "\\benhance(ment)?\\b"
+  - "\\bfeature\\b"
+  - "\\bimprove(ment)?\\b"
+  - "\\bupdate\\b"
+
+documentation:
+  - "\\bdoc(s|umentation)?\\b"
+  - "\\bexample\\b"
+  - "\\bguide\\b"
+  - "\\btutorial\\b"
+
+question:
+  - "\\bask\\b"
+  - "\\bhow\\b"
+  - "\\bquestion\\b"
+  - "\\bwhat\\b"
+  - "\\bwhen\\b"
+  - "\\bwhere\\b"
+  - "\\bwho\\b"
+  - "\\bwhy\\b" 

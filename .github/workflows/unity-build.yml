@@ -1,0 +1,51 @@
+name: Unity Build
+
+on:
+  workflow_call:
+    inputs:
+      unity_version:
+        description: "Unity version to use for building"
+        required: true
+        type: string
+        default: "2022.3.1f1"
+      target_platform:
+        description: "Build target platform (e.g., StandaloneWindows64, Android, iOS)"
+        required: true
+        type: string
+      build_name:
+        description: "Name of the build"
+        required: false
+        type: string
+        default: "build"
+
+jobs:
+  build:
+    name: Build for ${{ inputs.target_platform }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          lfs: true
+
+      - name: Cache Library
+        uses: actions/cache@v3
+        with:
+          path: Library
+          key: Library-${{ inputs.unity_version }}-${{ inputs.target_platform }}
+          restore-keys: |
+            Library-${{ inputs.unity_version }}-
+            Library-
+
+      - name: Build Unity Project
+        uses: game-ci/unity-builder@v3
+        with:
+          unityVersion: ${{ inputs.unity_version }}
+          targetPlatform: ${{ inputs.target_platform }}
+          buildName: ${{ inputs.build_name }}
+
+      - name: Upload Build Artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: ${{ inputs.build_name }}-${{ inputs.target_platform }}
+          path: build/${{ inputs.target_platform }}

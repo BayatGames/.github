@@ -1,0 +1,59 @@
+- name: bug
+  description: Something isn't working
+  color: d73a4a
+
+- name: documentation
+  description: Improvements or additions to documentation
+  color: 0075ca
+
+- name: duplicate
+  description: This issue or pull request already exists
+  color: cfd3d7
+
+- name: enhancement
+  description: New feature or request
+  color: a2eeef
+
+- name: good first issue
+  description: Good for newcomers
+  color: 7057ff
+
+- name: help wanted
+  description: Extra attention is needed
+  color: 008672
+
+- name: invalid
+  description: This doesn't seem right
+  color: e4e669
+
+- name: question
+  description: Further information is requested
+  color: d876e3
+
+- name: security
+  description: Security related issue
+  color: ee0701
+
+- name: wontfix
+  description: This will not be worked on
+  color: ffffff
+
+- name: dependencies
+  description: Pull requests that update a dependency file
+  color: 0366d6
+
+- name: ci
+  description: Changes to CI configuration files and scripts
+  color: 4a92e4
+
+- name: tests
+  description: Changes related to tests
+  color: 0e8a16
+
+- name: performance
+  description: Performance improvements
+  color: 5319e7
+
+- name: refactor
+  description: Code changes that neither fix a bug nor add a feature
+  color: 1d76db 

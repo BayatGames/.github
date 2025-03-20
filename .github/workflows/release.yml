@@ -1,0 +1,42 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  build:
+    name: Create Release
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Get previous tag
+        id: previoustag
+        uses: WyriHaximus/github-action-get-previous-tag@v1
+        
+      - name: Get Changelog
+        id: get_changelog
+        run: |
+          changelog=$(awk "/## \\[${GITHUB_REF#refs/tags/}\\]/,/## \\[${PREV_TAG}\\]/" CHANGELOG.md | sed "/## \\[${PREV_TAG}\\]/d")
+          changelog="${changelog//'%'/'%25'}"
+          changelog="${changelog//$'\n'/'%0A'}"
+          changelog="${changelog//$'\r'/'%0D'}"
+          echo "changelog=$changelog" >> $GITHUB_OUTPUT
+        env:
+          PREV_TAG: ${{ steps.previoustag.outputs.tag }}
+
+      - name: Create Release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: Release ${{ github.ref_name }}
+          body: ${{ steps.get_changelog.outputs.changelog }}
+          draft: false
+          prerelease: false 
