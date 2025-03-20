@@ -2,7 +2,7 @@ name: Organization Metrics Dashboard
 
 on:
   # Schedule updates (every day at midnight)
-  schedule: [{cron: "0 0 * * *"}]
+#   schedule: [{cron: "0 0 * * *"}]
   # Allow manual trigger
   workflow_dispatch:
   # Run on push to main branch (limit to relevant files)
