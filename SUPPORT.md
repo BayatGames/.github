@@ -4,7 +4,7 @@
 > By interacting with this repository, organization, or community you agree to
 > abide by its terms.
 
-Hello! 👋
+Greetings!
 
 Thank you for using **Bayat Games** services and products. We're committed to providing excellent support for both our games and game development tools. To help us assist you efficiently, please review the following guidelines.
 
