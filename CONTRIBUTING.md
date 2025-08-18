@@ -4,7 +4,7 @@
 > By interacting with this repository, organization, or community you agree to
 > abide by its terms.
 
-Hello! 👋
+Greetings!
 
 Thank you for your interest in contributing to our projects. We appreciate your time and effort in helping improve **Bayat Games Open Source**. Please take a moment to review the following guidelines before getting started.
 
