@@ -21,7 +21,7 @@ Thank you for using **Bayat Games** services and products. We're committed to pr
 We provide different support channels depending on what you need help with:
 
 * **Games**: For support with our games, please visit our [game support portal](https://support.bayat.io/games) or use the in-game support options
-* **Development Tools & Assets**: For help with our Unity plugins, frameworks, and assets, use the GitHub Discussions for the specific repository or our [developer portal](https://support.bayat.io/dev)
+* **Development Tools & Assets**: For help with our Unity plugins, frameworks, and assets, use the GitHub Discussions for the specific repository or our [developer portal](https://developer.bayat.io)
 * **Open Source Projects**: For assistance with our open source projects, please use GitHub Issues on the respective repository
 
 ## Questions
