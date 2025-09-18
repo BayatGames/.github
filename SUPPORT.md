@@ -62,7 +62,7 @@ For information on how to contribute to our projects, please refer to [`CONTRIBU
 
 Unity assets are licensed under [Unity Asset Store Terms and EULA][license]
 
-All rights reserved © [Bayat][author] 2024
+All rights reserved © [Bayat][author] 2025
 
 ---
 
@@ -75,10 +75,6 @@ Made with ❤️ by [Bayat][author]
 [author]: https://bayat.io
 
 [coc]: CODE_OF_CONDUCT.md
-
-[save-system]: https://github.com/BayatAssetStore/SaveSystem
-
-[audio-system]: https://github.com/BayatAssetStore/AudioSystem
 
 [rubberduck]: https://rubberduckdebugging.com
 

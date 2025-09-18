@@ -59,5 +59,3 @@ All Bayat projects adhere to comprehensive security standards as defined in our 
 For security inquiries or to report vulnerabilities, please contact: security@bayat.io
 
 [bayat]: https://bayat.io
-
-[core]: https://github.com/unifiedjs/collective#core-team
