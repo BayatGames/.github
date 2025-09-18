@@ -16,14 +16,7 @@ We empower creators to bring their ideas to life passionately with joy, we love 
 
 ## How to Contribute
 
-We welcome contributions to our open source projects! Here's how you can get involved:
-
-1. Check out our repositories and find one that interests you
-2. Read the project's contribution guidelines
-3. Fork the repository and make your changes
-4. Submit a pull request
-
-For more details, see our [CONTRIBUTING.md](https://github.com/BayatGames/.github/blob/main/CONTRIBUTING.md) guide.
+We welcome contributions to our open source projects! For details on how to get involved, please see our comprehensive [Contributing Guide](https://github.com/BayatGames/.github/blob/main/CONTRIBUTING.md).
 
 ## Get in Touch
 

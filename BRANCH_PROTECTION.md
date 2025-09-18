@@ -58,3 +58,7 @@ We recommend following a feature branch workflow:
 5. Once approved and all checks pass, merge your PR
 
 This workflow ensures that the main branch remains stable and production-ready at all times while enabling collaborative development.
+
+---
+
+<p align="center">Made with ❤️ by Bayat</p>

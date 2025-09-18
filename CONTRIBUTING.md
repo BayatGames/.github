@@ -8,6 +8,8 @@ Greetings!
 
 Thank you for your interest in contributing to our projects. We appreciate your time and effort in helping improve **Bayat Games Open Source**. Please take a moment to review the following guidelines before getting started.
 
+---
+
 ## Contents
 
 * [Ecosystem](#ecosystem)
@@ -27,6 +29,8 @@ Thank you for your interest in contributing to our projects. We appreciate your 
 * [Resources](#resources)
 * [License](#license)
 
+---
+
 ## Ecosystem
 
 The [BayatGames][bayatgames] organization encompasses a diverse ecosystem focused on both game development and game development tools:
@@ -38,6 +42,8 @@ The [BayatGames][bayatgames] organization encompasses a diverse ecosystem focuse
 * **Open Source Projects**: Community-focused projects that enhance the game development ecosystem
 
 Our projects are designed to work together while maintaining independence, allowing developers to select the components that best fit their needs.
+
+---
 
 ## Contributions
 
@@ -58,6 +64,8 @@ We value diverse perspectives and opinions in discussions on our issue tracker.
 ### Write code
 
 Code contributions are highly valued. Before creating a pull request, it's often beneficial to first create an issue that reports a bug or suggests a new feature. This helps prevent unnecessary work and ensures alignment with project goals.
+
+---
 
 ## Development Workflow
 
@@ -110,6 +118,8 @@ docs(readme): update installation instructions
 6. Request reviews from maintainers
 7. Address review feedback promptly
 
+---
+
 ## Coding Standards
 
 All contributions must adhere to our comprehensive [Bayat Development Conventions](https://github.com/BayatGames/conventions), which include:
@@ -122,9 +132,13 @@ All contributions must adhere to our comprehensive [Bayat Development Convention
 
 For specific guidance, refer to the relevant sections in our [conventions repository](https://github.com/BayatGames/conventions).
 
+---
+
 ## Support
 
 See [`SUPPORT.md`][support] for guidance on how to get help.
+
+---
 
 ## Submitting an issue
 
@@ -139,6 +153,8 @@ See [`SUPPORT.md`][support] for guidance on how to get help.
 * The more detailed your issue report, the more effectively we can address it
 * The best issue report includes a failing test or demo that demonstrates the problem
 
+---
+
 ## Submitting a pull request
 
 * For significant changes, it's best to discuss your approach in an issue first to prevent unnecessary work
@@ -147,6 +163,8 @@ See [`SUPPORT.md`][support] for guidance on how to get help.
 * Limit your pull request to a single focused change
 * Test your changes thoroughly before submission
 * Provide a clear and compelling description explaining why your pull request should be accepted
+
+---
 
 ## Resources
 
@@ -162,7 +180,13 @@ See [`SUPPORT.md`][support] for guidance on how to get help.
 
 ## License
 
-Unity assets are licensed under [Unity Asset Store Terms and EULA][license]
+### Unity Assets
+
+Our assets published on the Unity Asset Store are licensed under the [Unity Asset Store Terms of Service and EULA][license].
+
+### Open Source Projects
+
+Our open source projects are typically licensed under the MIT License. Please see the `LICENSE` file in each repository for the specific terms.
 
 All rights reserved © [Bayat][author]
 
