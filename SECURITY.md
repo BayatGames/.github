@@ -4,8 +4,6 @@
 
 Maintaining the security and integrity of our software, services, and user data is a top priority at [**Bayat Games**][bayat]. We welcome and appreciate the contributions of external security researchers in helping us identify and address potential vulnerabilities.
 
-This security policy aligns with our [Secure Coding Guidelines](https://github.com/BayatGames/conventions/blob/main/docs/security/coding.md) and [Vulnerability Management Standards](https://github.com/BayatGames/conventions/blob/main/docs/security/vulnerabilities.md) as defined in the [Bayat Development Conventions](https://github.com/BayatGames/conventions).
-
 ## Scope
 
 We encourage you to report security issues in any software, service, or website governed by Bayat Games. 
@@ -21,8 +19,6 @@ Security issues should be reported by email to security@bayat.io.
 Our security team will acknowledge receipt of your report within 48 hours. You will receive a more detailed response within 96 hours, outlining our assessment of the issue and any next steps.
 
 For coordinated vulnerability disclosure, we will create a GitHub Security Advisory to discuss the issue internally and, when appropriate, invite you to participate in the advisory process.
-
-This process follows our [DevSecOps Practices](https://github.com/BayatGames/conventions/blob/main/docs/security/devsecops.md) and [Incident Response Guidelines](https://github.com/BayatGames/conventions/blob/main/docs/devops/incident-response.md).
 
 ## Safe Harbor Provisions
 
@@ -42,17 +38,6 @@ Before engaging in any security research activities that might fall outside the 
 * Provide detailed reports with reproducible steps and clearly defined impact assessment
 * Submit one vulnerability per report for clarity and focused resolution
 * Do not engage in social engineering attacks (phishing, vishing, smishing, etc.)
-* Follow our [Data Protection Guidelines](https://github.com/BayatGames/conventions/blob/main/docs/security/data-protection.md) when handling sensitive information
-
-## Security Standards
-
-All Bayat projects adhere to comprehensive security standards as defined in our [Bayat Development Conventions](https://github.com/BayatGames/conventions), including:
-
-* [Secure Coding Practices](https://github.com/BayatGames/conventions/blob/main/docs/security/coding.md)
-* [Authentication Standards](https://github.com/BayatGames/conventions/blob/main/docs/security/authentication.md)
-* [Data Protection Guidelines](https://github.com/BayatGames/conventions/blob/main/docs/security/data-protection.md)
-* [Supply Chain Security Measures](https://github.com/BayatGames/conventions/blob/main/docs/security/supply-chain.md)
-* [SAST/DAST Implementation](https://github.com/BayatGames/conventions/blob/main/docs/security/sast-dast.md)
 
 ## Contact
 
