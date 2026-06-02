@@ -62,7 +62,7 @@ For information on how to contribute to our projects, please refer to [`CONTRIBU
 
 Unity assets are licensed under [Unity Asset Store Terms and EULA][license]
 
-All rights reserved © [Bayat][author] 2025
+All rights reserved © [Bayat][author]
 
 ---
 
