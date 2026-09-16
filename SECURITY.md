@@ -14,7 +14,7 @@ While there are no rigid criteria for determining whether an issue qualifies as 
 
 ## Reporting Process
 
-Security issues should be reported by email to security@bayat.io.
+Security issues should be reported by email to security@bayatgames.ir.
 
 Our security team will acknowledge receipt of your report within 48 hours. You will receive a more detailed response within 96 hours, outlining our assessment of the issue and any next steps.
 
@@ -41,6 +41,6 @@ Before engaging in any security research activities that might fall outside the 
 
 ## Contact
 
-For security inquiries or to report vulnerabilities, please contact: security@bayat.io
+For security inquiries or to report vulnerabilities, please contact: security@bayatgames.ir
 
-[bayat]: https://bayat.io
+[bayat]: https://bayatgames.ir

@@ -6,8 +6,8 @@ This repository hosts the default community health files for the Bayat Games org
 
 ## License
 
-All rights reserved © [Bayat](https://bayat.io)
+All rights reserved © [Bayat Games](https://bayatgames.ir)
 
 ---
 
-Made with ❤️ by [Bayat](https://bayat.io)
+Made with ❤️ by [Bayat Games](https://bayatgames.ir)

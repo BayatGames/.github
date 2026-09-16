@@ -69,43 +69,27 @@ Code contributions are highly valued. Before creating a pull request, it's often
 
 ## Development Workflow
 
-Our development process follows the [Bayat Development Conventions](https://github.com/BayatGames/conventions). Below is an outline of key workflow elements.
+Below is an outline of key workflow elements.
 
 ### Branching Strategy
 
-We follow the [Git Flow](https://github.com/BayatGames/conventions/blob/main/docs/git/flow.md) branching strategy:
+We use a simple and straightforward branching strategy:
 
 1. Create a new branch from `main` for each feature, fix, or improvement
-2. Name your branch with a descriptive prefix:
-   * `feature/` for new features
-   * `fix/` for bug fixes
-   * `docs/` for documentation changes
-   * `refactor/` for code refactoring
-   * `test/` for changes to tests
-   * `chore/` for maintenance tasks
+2. Name your branch descriptively.
 
-Example: `feature/add-new-component` or `fix/resolve-memory-leak`
+Example: `add-new-component` or `resolve-memory-leak`
 
 ### Commit Guidelines
 
-We follow the [Conventional Commits](https://www.conventionalcommits.org/) specification as outlined in our [Commit Conventions](https://github.com/BayatGames/conventions/blob/main/docs/git/commits.md):
-
-```plaintext
-<type>(<scope>): <description>
-
-[optional body]
-
-[optional footer(s)]
-```
-
-Types include: feat, fix, docs, style, refactor, test, chore, etc.
+Provide descriptive commit messages, that's all is needed and potentially include a longer description for it (highly recommended):
 
 Examples:
 
 ```plaintext
-feat(ui): add button component
-fix(api): resolve authentication issue
-docs(readme): update installation instructions
+Add button component
+Resolve authentication issue
+Update installation instructions
 ```
 
 ### Pull Request Process
@@ -122,7 +106,7 @@ docs(readme): update installation instructions
 
 ## Coding Standards
 
-All contributions must adhere to our comprehensive [Bayat Development Conventions](https://github.com/BayatGames/conventions), which include:
+All contributions must adhere to the comprehensive conventions for each ecosystem, which include:
 
 * Language-specific standards and patterns
 * Documentation requirements
@@ -130,7 +114,7 @@ All contributions must adhere to our comprehensive [Bayat Development Convention
 * Accessibility considerations
 * Security best practices
 
-For specific guidance, refer to the relevant sections in our [conventions repository](https://github.com/BayatGames/conventions).
+For specific guidance, contact us.
 
 ---
 
@@ -168,12 +152,10 @@ See [`SUPPORT.md`][support] for guidance on how to get help.
 
 ## Resources
 
-* [Bayat Development Conventions](https://github.com/BayatGames/conventions)
 * [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 * [Making your first contribution](https://medium.com/@vadimdemedes/making-your-first-contribution-de6576ddb190)
 * [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
 * [GitHub Help](https://help.github.com)
-* [Conventional Commits](https://www.conventionalcommits.org/)
 * [All Contributors Specification](https://allcontributors.org/)
 * [Keep a Changelog](https://keepachangelog.com/)
 * [Semantic Versioning](https://semver.org/)
@@ -182,7 +164,7 @@ See [`SUPPORT.md`][support] for guidance on how to get help.
 
 ### Unity Assets
 
-Our assets published on the Unity Asset Store are licensed under the [Unity Asset Store Terms of Service and EULA][license].
+Our assets published on the Unity Asset Store are licensed under the [Unity Asset Store Terms of Service and EULA][unity-license].
 
 ### Open Source Projects
 
@@ -196,9 +178,9 @@ Made with ❤️ by [Bayat][author]
 
 <!-- Definitions -->
 
-[license]: https://unity3d.com/legal/as_terms
+[unity-license]: https://unity3d.com/legal/as_terms
 
-[author]: https://bayat.io
+[author]: https://bayatgames.ir
 
 [coc]: CODE_OF_CONDUCT.md
 

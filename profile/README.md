@@ -1,4 +1,4 @@
-| [Website](https://bayat.io) | [Support](https://support.bayat.io) | [Documentation](https://docs.bayat.io) | [Contact](https://bayat.io/contact) | [Unity Asset Store](https://assetstore.unity.com/publishers/26641) | [itch.io](https://bayat.itch.io) |
+| [Website](https://bayatgames.ir) | [Unity Asset Store](https://assetstore.unity.com/publishers/26641) | [itch.io](https://bayat.itch.io) |
 |-------------------------------|-------------------------------------------|---------------------------------------|---------------------------------------|----------------------------------------------------------------------|-----------------------------------|
 
 # Welcome to Bayat Games
@@ -20,9 +20,7 @@ We welcome contributions to our open source projects! For details on how to get 
 
 ## Get in Touch
 
-- **Website**: [bayat.io](https://bayat.io)
-- **Support**: [support.bayat.io](https://support.bayat.io)
-- **Twitter**: [@BayatGames](https://twitter.com/BayatGames)
+- **Website**: [bayatgames.ir](https://bayatgames.ir)
 - **Discord**: [Join our community](https://discord.gg/HWMqD7T)
 
 ---

@@ -20,16 +20,15 @@ Thank you for using **Bayat Games** services and products. We're committed to pr
 
 We provide different support channels depending on what you need help with:
 
-* **Games**: For support with our games, please visit our [game support portal](https://support.bayat.io/games) or use the in-game support options
-* **Development Tools & Assets**: For help with our Unity plugins, frameworks, and assets, use the GitHub Discussions for the specific repository or our [developer portal](https://developer.bayat.io)
 * **Open Source Projects**: For assistance with our open source projects, please use GitHub Issues on the respective repository
+* **Other** (games, tools, assets, etc): For support with our other products and services, please email us at [support@bayatgames.ir].
 
 ## Questions
 
 We encourage you to join our [Discord community][discord] for questions and discussions!
 Our Discord server is an active space where you can engage with our team and other community members.
 
-You can also use each repository's dedicated Discussions panel or contact us directly at support@bayat.io.
+You can also use each repository's dedicated Discussions panel or contact us directly at [support@bayatgames.ir].
 
 ### Asking quality questions
 
@@ -49,10 +48,8 @@ Effective questions lead to effective answers. When formulating your question:
 
 For our games, we recommend:
 
-* Checking our [FAQ page](https://bayat.io/games/faq) for common questions
 * Using in-game support options where available
 * Joining game-specific channels in our Discord community
-* Reporting bugs through our dedicated [game issue form](https://bayat.io/games/report-issue)
 
 ## Contributions
 
@@ -60,7 +57,7 @@ For information on how to contribute to our projects, please refer to [`CONTRIBU
 
 ## License
 
-Unity assets are licensed under [Unity Asset Store Terms and EULA][license]
+Unity assets are licensed under [Unity Asset Store Terms and EULA][unity-license]
 
 All rights reserved © [Bayat][author]
 
@@ -70,7 +67,7 @@ Made with ❤️ by [Bayat][author]
 
 <!-- Definitions -->
 
-[license]: https://unity3d.com/legal/as_terms
+[unity-license]: https://unity3d.com/legal/as_terms
 
 [author]: https://bayat.io
 
